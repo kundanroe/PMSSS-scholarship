@@ -55,10 +55,10 @@ A secure, end-to-end scholarship management system developed for the Prime Minis
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/pmsss-scholarship.git
-Move the folder into htdocs (inside your XAMPP directory).
+2.Move the folder into htdocs (inside your XAMPP directory).
 
-Start Apache and MySQL from the XAMPP Control Panel.
+3.Start Apache and MySQL from the XAMPP Control Panel.
 
-Open browser and navigate to:
-http://localhost/index.php
+4.Open browser and navigate to:
+  http://localhost/index.php
 
